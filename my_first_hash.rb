@@ -1,6 +1,6 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  
+  grades = ["Linear Regression" => 98, "Calculus II" => 93, "Differential Equations" => 99, "Linear Algebra" => 95, "Physics II" => 90]
   
 end
 
