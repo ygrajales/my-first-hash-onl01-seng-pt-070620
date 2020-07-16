@@ -1,6 +1,6 @@
 def my_hash
   
-  grades = ["Linear Regression" => 98, "Calculus II" => 93, "Differential Equations" => 99, "Linear Algebra" => 95, "Physics II" => 90]
+  grades = {"Linear Regression" => 98, "Calculus II" => 93, "Differential Equations" => 99, "Linear Algebra" => 95, "Physics II" => 90}
   
 end
 
